@@ -4,13 +4,13 @@
     { "src": "*.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/Kalo", "dest": "/Kalo.js" },
-    { "src": "/Kalopass", "dest": "/Kalopass.js" },
-    { "src": "/Sabir", "dest": "/Sabir.js" },
-    { "src": "/Sabirpass", "dest": "/Sabirpass.js" },
-    { "src": "/ahtsham", "dest": "/ahtsham.js" },
-    { "src": "/ahtshampass", "dest": "/ahtshampass.js" },
-    { "src": "/zubair", "dest": "/zubair.js" },
-    { "src": "/zubairpass", "dest": "/zubairpass.js" }
+    { "src": "/Shoib", "dest": "/Shoib.js" },
+    { "src": "/Kamil", "dest": "/Kamil.js" },
+    { "src": "/Zafar", "dest": "/Zafar.js" },
+    { "src": "/Tufil", "dest": "/Tufil.js" },
+    { "src": "/Waqrpatla", "dest": "/Waqrpatla.js" },
+    { "src": "/Zahmer", "dest": "/Zahmer.js" },
+    { "src": "/ajy", "dest": "/ajy.js" },
+    { "src": "/hanif", "dest": "/hanif.js" }
   ]
 }
