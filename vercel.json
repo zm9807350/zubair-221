@@ -7,10 +7,10 @@
     { "src": "/furqan", "dest": "/furqan.js" },
     { "src": "/maqbool", "dest": "/maqbool.js" },
     { "src": "/abid", "dest": "/abid.js" },
-    { "src": "/Tufil", "dest": "/Tufil.js" },
-    { "src": "/Waqrpatla", "dest": "/Waqrpatla.js" },
-    { "src": "/Zahmer", "dest": "/Zahmer.js" },
-    { "src": "/ajy", "dest": "/ajy.js" },
-    { "src": "/hanif", "dest": "/hanif.js" }
+    { "src": "/aziz", "dest": "/aziz.js" },
+    { "src": "/khodi", "dest": "/khodi.js" },
+    { "src": "/mujeeb", "dest": "/mujeeb.js" },
+    { "src": "/hamad", "dest": "/hamad.js" },
+    { "src": "/hamid", "dest": "/hamid.js" }
   ]
 }
